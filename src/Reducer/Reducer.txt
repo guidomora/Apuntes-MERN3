@@ -1,0 +1,12 @@
+Un reducer es una funcion comun y corriente
+- Debe ser una funcion pura
+    # No debe tener efectos secundarios, debe de poder resolver todo lo que se pide
+    # sin llamar a otras funciones.
+    # No debe realizar tareas asincronas.
+    # Debe retornar siempre un estado nuevo.
+    # No debe llamar localStorage o sessionStorage dentro del reducer
+    # Para modificar el State no debe de requerir mas de una accion
+
+- Debe retornar un nuevo estado
+- Usualmente recibe 2 argumentos 
+    El valor inicial (initialState) y la accion a ejecutar

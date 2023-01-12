@@ -1,0 +1,7 @@
+El <BrowserRouter /> es un high order component, osea que recibe componentes dentro de el, pero
+sigue siendo un componente comun
+
+
+Un contexto seria toda la estructura de componentes de una aplicacion
+
+Provider significa que esta proveyendo algo
